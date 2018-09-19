@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag-1 on Even - A super concise theme for Hugo</title>
+    <link>https://raidery.github.io/tags/tag-1/</link>
+    <description>Recent content in Tag-1 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://raidery.github.io/tags/tag-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>李清照:窗前谁种芭蕉树</title>
+      <link>https://raidery.github.io/post/chinese-preview/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://raidery.github.io/post/chinese-preview/</guid>
+      <description>李清照《添字采桑子·芭蕉》 窗前谁种芭蕉树 宋代：李清照 窗前谁种芭蕉树，阴满中庭。阴满中庭。叶叶心心，舒卷有馀清。 伤心枕上三更雨，点滴霖霪。点滴</description>
+    </item>
+    
+  </channel>
+</rss>
